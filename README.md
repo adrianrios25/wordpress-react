@@ -1,4 +1,4 @@
-Example a Headless CMS created with Wordpress and React with Context Api for State management
+Example of a Headless CMS created with Wordpress and React with Context Api for State management
 
 ---
 
